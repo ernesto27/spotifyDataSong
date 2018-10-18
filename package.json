@@ -1,0 +1,16 @@
+{
+    "name": "spotify-data-song",
+    "version": "1.0.0",
+    "main": "main.js",
+    "author": "Ernesto ponce <ernestoponce27@gmail.com>",
+    "description": "Get info about the current song playing on spotify app",
+    "devDependencies": {
+        "electron": "^3.0.4",
+        "electron-builder": "^20.28.4"
+    },
+    "scripts": {
+        "pack": "build",
+        "dist": "build"
+    },
+    "build" : {}
+}
