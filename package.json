@@ -12,5 +12,8 @@
         "pack": "build",
         "dist": "build"
     },
-    "build" : {}
+    "build": {},
+    "dependencies": {
+        "spotify-node-applescript": "^1.1.1"
+    }
 }
